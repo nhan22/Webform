@@ -1,0 +1,24 @@
+﻿body {
+    background-image: url("../Models/image/7.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+.InputData {
+    color: white;
+}
+.Table_lable_DOW {
+    color: white;
+}
+.ShowData {
+    color: white;
+}
+.Table_button_TOP button {
+    width: 100px;
+    height: 50px;
+}
+.Table_button_MID button {
+    width: 100px;
+    height: 50px;
+}
